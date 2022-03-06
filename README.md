@@ -1,1 +1,1 @@
-# This Program Will Teach You How Linked Lists Works.
+This Simple Program Written In C++ Will Teach You How Linked Lists Works.
