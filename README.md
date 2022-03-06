@@ -4,6 +4,6 @@ This Simple Program Will Teach You How Linked Lists Works, Using C Or C++ Or Any
 <pre>
   $~  g++ flexey.cpp -o flexey
   $~  ./flexey
-<pre>
+</pre>
 
 You'll See a Menu With Multiple Numbered Options.
